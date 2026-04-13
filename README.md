@@ -17,16 +17,6 @@ The goal is to identify patterns behind employee exits and evaluate how factors 
 
 ---
 
-## 📊 Dashboard Preview
-
-<p align="center">
-  <a href="PASTE_YOUR_IMAGE_LINK_HERE">
-    <img src="PASTE_YOUR_IMAGE_LINK_HERE" alt="Employee Dashboard" width="800"/>
-  </a>
-</p>
-
----
-
 ## 🧠 Business Problem
 
 * Why are employees leaving the company?
