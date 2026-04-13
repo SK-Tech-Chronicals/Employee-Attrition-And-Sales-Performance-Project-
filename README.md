@@ -101,9 +101,3 @@ Created additional columns:
 * Pivot Tables
 * Charts & Visualization
 * Data Cleaning Techniques
-
----
-
-## 🚀 Author
-
-Excel Data Analytics Project (Fresher Level)
